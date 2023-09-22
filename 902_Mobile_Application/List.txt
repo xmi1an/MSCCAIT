@@ -1,0 +1,46 @@
+Solve This My Practicals list and store each answer in new markdown file(write in educational steps) use markdown tags. ONLY write What i to write in Notebook.
+USE CODEs if Needed.
+Keep in mind this is for my assinment to write in notebook, so write in notebook format, DO NOT SKIP ANY STEP.
+
+For example : Practical-01.md, ... Practical-N.md
+## MCA Semester 3
+MCA - 302: Web Development Technology using APS.NET
+
+Practical Programs:
+1. Develop a Registration page using standard controls and validation controls
+a. Use of radio button, dropdown and combo box is needed
+b. Validation to be applied in every control
+
+2. Create a Registration page and store the details in the database.
+3. Create a login page and change password page and update the details in the database.
+
+4. Develop an admin page, in which admin can able to
+  a. Add new product details
+  b. Edit product details
+  c. Delete any product
+  d. Display the details in the gridview
+
+5. Display the product details in the gridview
+  a. Gridview should be sorted according to the products.
+  b. Paging should be applied in the grisview
+  c. Grid rows should be applied with alterative colors
+
+6.Create a Master page and combine Registration, login, change password and product pages
+to be included in the master page. User should able to access any page simultaneously.
+7. Display a gridview which displays the details from the database and allow gridview to perform
+edit, delete and insert through the grid.
+8. Develop an application to create user profile and allow the user to update the profile.
+Once you get the input data from the user, the profile data to be displayed in the correct
+format for the user to get printout with user image.
+9. Create an application form in vb.net to store user's information also validate the
+information to display the error message for certain criteria like:
+  a. User exceeds max length
+  b. If the field is blank
+  c. User has entered a numeric in place of char/ vice-versa.
+  d. If info is valid it should store the details in the database.
+  e. Users should able to display the list of all users' residing in a particular city in a
+  data grid
+  f. User should also able to edit or to delete a particular user.
+
+10. Implement AJAX control in Asp.Net web application
+11. Use LINQ queries to access the database from Asp.Net web application.
