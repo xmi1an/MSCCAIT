@@ -4,7 +4,6 @@ Keep in mind this is for my assinment to write in notebook, so write in notebook
 
 For example : Practical-01.md, ... Practical-N.md
 ## MCA Semester 3
-MCA - 302: Web Development Technology using APS.NET
 
 Practical Programs:
 1. Develop a Registration page using standard controls and validation controls
